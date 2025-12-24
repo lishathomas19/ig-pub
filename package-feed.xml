@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisha Demo FHIR IG Packages</title>
+    <description>NPM packages for Lisha's demo FHIR Implementation Guides.</description>
+    <link>https://lishathomas19.github.io/ig-pub</link>
+    <generator>Lisha Demo Publisher</generator>
+    <lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lishathomas19.github.io/ig-pub/package-feed.xml"
+               rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
