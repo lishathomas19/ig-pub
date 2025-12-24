@@ -1,0 +1,24 @@
+DemoImplementationGuide : Validation Results
+=========================================
+
+err = 1, warn = 5, info = 1
+$--
+Generated $--. FHIR version $-- for demo.ig#$-- (canonical = https://lishathomas19.github.io/ig-pub/demo.ig)
+ Build Errors : 1 / 5 / 0
+ C:\fhir-pub\publication\temp\ig-builds\demo.ig#1.0.0-milestone\fsh-generated\resources\ImplementationGuide-demo.ig : 0 / 0 / 1
+ C:\fhir-pub\publication\temp\ig-builds\demo.ig#1.0.0-milestone\fsh-generated\resources\Patient-DemoPatientExample : 0 / 0 / 1
+ C:\fhir-pub\publication\temp\ig-builds\demo.ig#1.0.0-milestone\fsh-generated\resources\StructureDefinition-demo-patient : 0 / 0 / 2
+ C:\fhir-pub\publication\temp\ig-builds\demo.ig#1.0.0-milestone\input\resources\patient-example : 0 / 0 / 1
+</table>
+== n/a ==
+ERROR: ImplementationGuide.definition.parameter[23].value: Supressed messages file not found
+WARNING: Unable to find ImplementationGuide.definition.resource.description for the resource Patient/example.  Descriptions are strongly encouraged if they cannot be inferred from the resource to allow proper population of the artifact list.
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated\resources\ImplementationGuide-demo.ig.json ==
+== fsh-generated\resources\Patient-DemoPatientExample.json ==
+== fsh-generated\resources\StructureDefinition-demo-patient.json ==
+INFORMATION: StructureDefinition/demo-patient: StructureDefinition.snapshot.element[4].binding.extension[0]: The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.2.0 is deprecated
+== input\resources\patient-example.json ==

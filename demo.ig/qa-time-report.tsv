@@ -1,0 +1,10 @@
+Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+\fsh-generated\resources\ImplementationGuide-demo.ig.json	2023	-	0	0	0	0	0	0	8	11	0	0	0	0	0	0	0	0	0	0	75	144	0	0	0	2	0	0
+fsh-generated/resources/Patient-DemoPatientExample.json	454	4	0	0	0	0	0	0	0	551	0	0	0	0	0	0	0	0	0	0	18	117	0	0	1	0	0	0
+fsh-generated/resources/StructureDefinition-demo-patient.json	1363	3	0	61	1	0	0	0	0	24	0	0	1	0	0	0	0	2	0	0	384	4468	0	0	0	14	0	1
+input/resources/patient-example.json	342	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	72	0	0	0	0	0	0
+\fsh-generated\includes\fsh-link-references.md	138	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\input\pagecontent\index.md	103	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\template\config	0	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\template\config\_config.yml	31	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\temp\pages\_includes\artifacts.xml	2736	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2	0	0	0	0	0	0

@@ -6,10 +6,20 @@
       "status" : "ci-build",
       "sequence" : "ci-build",
       "desc" : "Continuous Integration Build (latest in version control) - Content subject to frequent changes"
+    },
+    {
+      "version" : "1.0.0",
+      "path" : "https://lishathomas19.github.io/ig-pub/demo.ig/1.0.0",
+      "status" : "release",
+      "sequence" : "Release 1",
+      "fhirversion" : "4.0.1",
+      "date" : "2025-12-24",
+      "current" : true,
+      "desc" : "Initial demo release."
     }
   ],
   "package-id" : "demo.ig",
-  "canonical" : "https://lishathomas19.github.io/fhir-ig-lisha-demo",
+  "canonical" : "https://lishathomas19.github.io/ig-pub/demo.ig",
   "title" : "Lisha Demo Implementation Guide",
   "category" : "Infrastructure",
   "introduction" : "Demo IG published using HL7 IG Publisher go-publish."

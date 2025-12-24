@@ -29,7 +29,7 @@ It includes one example Patient resource.
   "name" : "DemoImplementationGuide",
   "title" : "Lisha Demo Implementation Guide",
   "status" : "active",
-  "date" : "2025-12-24T03:02:10+01:00",
+  "date" : "2025-12-24T16:08:03+01:00",
   "publisher" : "Lisha Thomas",
   "contact" : [
     {

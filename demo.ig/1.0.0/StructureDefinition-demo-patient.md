@@ -41,7 +41,7 @@ Other representations of profile: [CSV](StructureDefinition-demo-patient.csv), [
   "name" : "DemoPatient",
   "title" : "Demo Patient Profile",
   "status" : "active",
-  "date" : "2025-12-24T03:02:10+01:00",
+  "date" : "2025-12-24T16:08:03+01:00",
   "publisher" : "Lisha Thomas",
   "contact" : [
     {

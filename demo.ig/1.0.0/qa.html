@@ -47,7 +47,7 @@
 </head>
 <body style="margin: 20px; background-color: #ffffff">
  <h1>Validation Results for DemoImplementationGuide</h1>
- <p>Generated Wed Dec 24 03:04:58 CET 2025, FHIR version 4.0.1 for demo.ig#1.0.0 (canonical = <a href="https://lishathomas19.github.io/ig-pub/demo.ig">https://lishathomas19.github.io/ig-pub/demo.ig</a> (<a href="https://lishathomas19.github.io/ig-pub/demo.ig/history.html">history</a>)). See <a href="qa.min.html">Errors Only</a> &amp; <a href="qa-ipreview.html">IP</a></p>
+ <p>Generated Wed Dec 24 16:09:39 CET 2025, FHIR version 4.0.1 for demo.ig#1.0.0 (canonical = <a href="https://lishathomas19.github.io/ig-pub/demo.ig">https://lishathomas19.github.io/ig-pub/demo.ig</a> (<a href="https://lishathomas19.github.io/ig-pub/demo.ig/history.html">history</a>)). See <a href="qa.min.html">Errors Only</a> &amp; <a href="qa-ipreview.html">IP</a></p>
 <table class="grid"> <tr><td colspan=2><b>Quality Checks</b></td></tr>
  <tr><td>Publisher Version:</td><td><span style="background-color: #ffcccc">IG Publisher Version: v2.0.28 which is a development version. The latest official release version isv2.0.29 <a href="https://github.com/HL7/fhir-ig-publisher/releases/latest/download/publisher.jar">Download Latest</a></span></td></tr>
  <tr><td>Publication Code:</td><td>n/a<span style="color: maroon; font-weight: bold"> </span>. PackageId = demo.ig, Canonical = https://lishathomas19.github.io/ig-pub/demo.ig</td></tr>
@@ -56,22 +56,20 @@
  <tr><td>Publication Request:</td><td><table class="grid">
  <tr><td>package-id</d><td>demo.ig</td></tr>
  <tr><td>version</d><td>1.0.0</td></tr>
+ <tr><td>path</d><td>https://lishathomas19.github.io/ig-pub/demo.ig/1.0.0</td></tr>
  <tr><td>Pub-Mode</d><td>milestone</td></tr>
  <tr><td>status</d><td>release</td></tr>
  <tr><td>Release-Label</d><td>release</td></tr>
- <tr><td>Sequence (Group)</d><td>Release 1</td></tr>
+ <tr><td>Sequence (Group)</d><td>Release 1 (current: n/a, others = n/a)</td></tr>
  <tr><td>desc</d><td>Initial demo release.</td></tr>
- <tr><td>first</d><td>true</td></tr>
- <tr><td>category</d><td>Infrastructure</td></tr>
- <tr><td>title</d><td>Lisha Demo Implementation Guide</td></tr>
- <tr><td>introduction</d><td>Demo IG published using HL7 IG Publisher go-publish.</td></tr>
- <tr><td>ci-build</d><td>https://build.fhir.org/ig/lisha/demoig</td></tr>
  <tr><td>RelatedIgs</d><td>(None Found)</td></tr>
 </table>
-<ul><li><span title="Not Found">This IG has never been published</span> <img src="information.png" height="16px" width="16px"/></li>
-<li>This IG has never been published, so the version should start with '0.' or include a patch version e.g. '-ballot' <img src="icon-warning.png" height="16px" width="16px"/></li>
-<li>Proposed path for this publication does not start with the canonical URL (https://lishathomas19.github.io/fhir-ig-lisha-demo/1.0.0 vs https://lishathomas19.github.io/ig-pub/demo.ig) <img src="icon-error.gif" height="16px" width="16px"/></li>
-<li>Proposed path for this milestone publication should usually be canonical with either sequence or version appended <img src="icon-warning.png" height="16px" width="16px"/></li>
+<ul><li>Package canonical mismatch. This package canonical is https://lishathomas19.github.io/ig-pub/demo.ig but the website has https://lishathomas19.github.io/fhir-ig-lisha-demo <img src="icon-error.gif" height="16px" width="16px"/></li>
+<li>This is not the first publication, so first must not be true <img src="icon-error.gif" height="16px" width="16px"/></li>
+<li>Publication request category found (not allowed after first publication <img src="icon-error.gif" height="16px" width="16px"/></li>
+<li>Publication request title found (not allowed after first publication) <img src="icon-error.gif" height="16px" width="16px"/></li>
+<li>Publication request introduction found (not allowed after first publication) <img src="icon-error.gif" height="16px" width="16px"/></li>
+<li>Publication request ci-build found (not allowed after first publication) <img src="icon-error.gif" height="16px" width="16px"/></li>
 </ul>
 </td></tr>
  <tr><td>Supressed Messages:</td><td>No Suppressed Issues
@@ -101,7 +99,7 @@ hl7.fhir.r4.core#4.0.1:     <a href="http://hl7.org/fhir/R4/codesystem-guide-par
 </ul>
 </td></tr>
  <tr><td>Modifier Extensions:</td><td><span style="color: grey">(none)</span></td></tr>
- <tr><td>Previous Version Comparison:</td><td> Unable to compare with previous version: Unable to find version history at https://lishathomas19.github.io/ig-pub/demo.ig (Problem #1 with package-list.json at https://lishathomas19.github.io/ig-pub/demo.ig: Not Found)</td></tr>
+ <tr><td>Previous Version Comparison:</td><td> Unable to compare with previous version: Unable to find version history at https://lishathomas19.github.io/ig-pub/demo.ig (Problem #1 with package-list.json at https://lishathomas19.github.io/ig-pub/demo.ig: Mismatch canonical URL)</td></tr>
  <tr><td>IPA Comparison:</td><td> n/a</td></tr>
  <tr><td>IPS Comparison:</td><td> n/a</td></tr>
  <tr><td>Validation Flags:</td><td> On: autoLoad; Off: hintAboutNonMustSupport, anyExtensionsAllowed, checkAggregation, showReferenceMessages, noExperimentalContent, displayWarnings</td></tr>
