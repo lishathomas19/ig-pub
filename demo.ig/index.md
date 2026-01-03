@@ -8,7 +8,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:https://lishathomas19.github.io/ig-pub/demo.ig/ImplementationGuide/demo.ig | *Version*:1.0.0 |
-| Active as of 2025-12-24 | *Computable Name*:DemoImplementationGuide |
+| Active as of 2026-01-03 | *Computable Name*:DemoImplementationGuide |
 
 # Demo IG
 
@@ -29,7 +29,7 @@ It includes one example Patient resource.
   "name" : "DemoImplementationGuide",
   "title" : "Lisha Demo Implementation Guide",
   "status" : "active",
-  "date" : "2025-12-24T16:10:15+01:00",
+  "date" : "2026-01-03T14:02:19+01:00",
   "publisher" : "Lisha Thomas",
   "contact" : [
     {

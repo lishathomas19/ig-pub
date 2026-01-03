@@ -5,10 +5,10 @@ err = 1, warn = 5, info = 1
 $--
 Generated $--. FHIR version $-- for demo.ig#$-- (canonical = https://lishathomas19.github.io/ig-pub/demo.ig)
  Build Errors : 1 / 5 / 0
- C:\fhir-pub\publication\temp\ig-builds\demo.ig#1.0.0-milestone\fsh-generated\resources\ImplementationGuide-demo.ig : 0 / 0 / 1
- C:\fhir-pub\publication\temp\ig-builds\demo.ig#1.0.0-milestone\fsh-generated\resources\Patient-DemoPatientExample : 0 / 0 / 1
- C:\fhir-pub\publication\temp\ig-builds\demo.ig#1.0.0-milestone\fsh-generated\resources\StructureDefinition-demo-patient : 0 / 0 / 2
- C:\fhir-pub\publication\temp\ig-builds\demo.ig#1.0.0-milestone\input\resources\patient-example : 0 / 0 / 1
+ C:\fhir-publish\ig\fsh-generated\resources\ImplementationGuide-demo.ig : 0 / 0 / 1
+ C:\fhir-publish\ig\fsh-generated\resources\Patient-DemoPatientExample : 0 / 0 / 1
+ C:\fhir-publish\ig\fsh-generated\resources\StructureDefinition-demo-patient : 0 / 0 / 2
+ C:\fhir-publish\ig\input\resources\patient-example : 0 / 0 / 1
 </table>
 == n/a ==
 ERROR: ImplementationGuide.definition.parameter[23].value: Supressed messages file not found

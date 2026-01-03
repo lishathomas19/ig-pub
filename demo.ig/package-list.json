@@ -13,7 +13,7 @@
       "status" : "release",
       "sequence" : "Release 1",
       "fhirversion" : "4.0.1",
-      "date" : "2025-12-24",
+      "date" : "2026-01-03",
       "current" : true,
       "desc" : "Initial demo release."
     }
