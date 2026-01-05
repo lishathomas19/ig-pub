@@ -1,0 +1,24 @@
+# demo.ig#1.0.0: Lisha Demo Implementation Guide
+
+## Pages
+
+* [Home](index.md)
+* [Artifacts Summary](artifacts.md)
+
+## Resources
+
+### Resource Profiles
+
+* [Demo Patient Profile](StructureDefinition-demo-patient.md)
+
+### ImplementationGuides
+
+* [Lisha Demo Implementation Guide](index.md)
+
+### Patients
+
+* [example](Patient-example.md)
+
+### Examples
+
+* [DemoPatientExample (Patient)](Patient-DemoPatientExample.md)

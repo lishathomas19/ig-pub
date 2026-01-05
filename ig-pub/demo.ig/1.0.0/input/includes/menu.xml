@@ -1,0 +1,13 @@
+<menu>
+  <group>
+    <title value="IG Home"/>
+    <link>
+      <text value="Home"/>
+      <url value="index.html"/>
+    </link>
+    <link>
+      <text value="Artifacts"/>
+      <url value="artifacts.html"/>
+    </link>
+  </group>
+</menu>
