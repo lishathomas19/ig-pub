@@ -10,7 +10,7 @@
   "name" : "DemoImplementationGuide",
   "title" : "Lisha Demo Implementation Guide",
   "status" : "active",
-  "date" : "2026-01-03T14:02:19+01:00",
+  "date" : "2026-01-06T16:32:59+01:00",
   "publisher" : "Lisha Thomas",
   "contact" : [{
     "name" : "Lisha Thomas",
@@ -328,7 +328,7 @@
     },
     {
       "url" : "http://hl7.org/fhir/tools/StructureDefinition/ig-internal-dependency",
-      "valueCode" : "hl7.fhir.uv.tools.r4#0.8.0"
+      "valueCode" : "hl7.fhir.uv.tools.r4#0.9.0"
     },
     {
       "extension" : [{
@@ -628,17 +628,6 @@
       "name" : "Demo Patient Profile",
       "description" : "Simple Patient profile for learning FHIR Shorthand.",
       "exampleBoolean" : false
-    },
-    {
-      "extension" : [{
-        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
-        "valueString" : "Patient"
-      }],
-      "reference" : {
-        "reference" : "Patient/example"
-      },
-      "name" : "example",
-      "exampleBoolean" : false
     }],
     "page" : {
       "extension" : [{
@@ -647,16 +636,7 @@
       }],
       "nameUrl" : "toc.html",
       "title" : "Table of Contents",
-      "generation" : "html",
-      "page" : [{
-        "extension" : [{
-          "url" : "http://hl7.org/fhir/tools/StructureDefinition/ig-page-name",
-          "valueUrl" : "index.html"
-        }],
-        "nameUrl" : "index.html",
-        "title" : "Home",
-        "generation" : "markdown"
-      }]
+      "generation" : "html"
     },
     "parameter" : [{
       "code" : "path-resource",

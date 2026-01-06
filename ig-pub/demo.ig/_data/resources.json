@@ -1,0 +1,64 @@
+{
+  "ImplementationGuide/demo.ig" : {
+    "history" : false,
+    "testplan" : false,
+    "testscript" : false,
+    "index" : 0,
+    "source" : "C:\\fhir-pub\\publication\\fsh-generated\\resources\\ImplementationGuide-demo.ig.json",
+    "sourceTail" : "ImplementationGuide-demo.ig.json",
+    "path" : "index.html",
+    "url" : "https://lishathomas19.github.io/ig-pub/demo.ig/ImplementationGuide/demo.ig",
+    "version" : "1.0.0",
+    "name" : "DemoImplementationGuide",
+    "title" : "Lisha Demo Implementation Guide",
+    "titlelang" : {
+    },
+    "date" : "2026-01-06T16:32:59+01:00",
+    "description" : "Simple demo IG with one Patient profile and example.",
+    "descriptionlang" : {
+    },
+    "status" : {
+      "class" : "colsi",
+      "owner" : "Lisha Thomas",
+      "link" : "https://github.com/lishathomas19/fhir-ig-lisha-demo",
+      "status" : "Active"
+    }
+  },
+  "Patient/DemoPatientExample" : {
+    "history" : false,
+    "testplan" : false,
+    "testscript" : false,
+    "index" : 1,
+    "source" : "fsh-generated/resources/Patient-DemoPatientExample.json",
+    "sourceTail" : "Patient-DemoPatientExample.json",
+    "path" : "Patient-DemoPatientExample.html",
+    "status" : {
+      "class" : "colsi"
+    }
+  },
+  "StructureDefinition/demo-patient" : {
+    "history" : false,
+    "testplan" : false,
+    "testscript" : false,
+    "index" : 2,
+    "source" : "fsh-generated/resources/StructureDefinition-demo-patient.json",
+    "sourceTail" : "StructureDefinition-demo-patient.json",
+    "path" : "StructureDefinition-demo-patient.html",
+    "url" : "https://lishathomas19.github.io/ig-pub/demo.ig/StructureDefinition/demo-patient",
+    "version" : "1.0.0",
+    "name" : "DemoPatient",
+    "title" : "Demo Patient Profile",
+    "titlelang" : {
+    },
+    "date" : "2026-01-06T16:32:59+01:00",
+    "description" : "Simple Patient profile for learning FHIR Shorthand.",
+    "descriptionlang" : {
+    },
+    "status" : {
+      "class" : "colsi",
+      "owner" : "Lisha Thomas",
+      "link" : "https://github.com/lishathomas19/fhir-ig-lisha-demo",
+      "status" : "Active"
+    }
+  }
+}

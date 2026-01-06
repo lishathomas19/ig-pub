@@ -1,0 +1,32 @@
+{
+  "demo-patient" : {
+    "index" : 0,
+    "url" : "https://lishathomas19.github.io/ig-pub/demo.ig/StructureDefinition/demo-patient",
+    "name" : "DemoPatient",
+    "title" : "Demo Patient Profile",
+    "uml" : false,
+    "titlelang" : {
+    },
+    "path" : "StructureDefinition-demo-patient.html",
+    "kind" : "resource",
+    "type" : "Patient",
+    "base" : "http://hl7.org/fhir/StructureDefinition/Patient",
+    "basename" : "Patient",
+    "basepath" : "http://hl7.org/fhir/R4/patient.html",
+    "adl" : false,
+    "status" : "active",
+    "date" : "Tue Jan 06 16:32:59 CET 2026",
+    "abstract" : false,
+    "derivation" : "constraint",
+    "publisher" : "Lisha Thomas",
+    "publisherlang" : {
+    },
+    "copyright" : null,
+    "copyrightlang" : {
+    },
+    "description" : "Simple Patient profile for learning FHIR Shorthand.",
+    "descriptionlang" : {
+    },
+    "obligations" : false
+  }
+}
